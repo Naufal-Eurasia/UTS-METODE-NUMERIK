@@ -46,6 +46,8 @@ if solusi is not None:
 else:
     print("Metode Newton-Raphson tidak konvergen.")
 
+\python\
+
 Output program diatas : x = 1.3247179572447898
 
 
@@ -87,6 +89,8 @@ solusi = cari_solusi_persamaan_linier(a, b)
 
 # Menampilkan solusi
 print(f"Solusi dari persamaan {a}x + ({b}) = 0 adalah x = {solusi}")
+
+\python\
 
 Output program diatas :Solusi dari persamaan 2x + (-12) = 0 adalah x = 6
 
