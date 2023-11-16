@@ -12,6 +12,11 @@ Selanjutnya, kita dapat menggunakan metode Newton-Raphson dengan tebakan awal x0
 Solusi akhir: x = 1.3247179572447898
 
 Program untuk solusi diatas:
+
+
+\python\
+
+
 def fungsi(x):
     return x**3 - x - 1
 
@@ -64,6 +69,10 @@ Jadi, solusi dari persamaan linier 2x - 4 = 8 adalah x = 6.
 
 
 Program untuk solusi diatas :
+
+\python\
+
+
 def cari_solusi_persamaan_linier(a, b):
     # Isolasi x: ax + b = 0
     x = -b / a
